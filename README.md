@@ -3,6 +3,9 @@ Rust language support in Atom. Forked from language-rust.
 
 ## New In 0.6.0
   *  Merged quite a few snippets from georich.
+  
+## Atom.io Homepage
+  * [Available Here](https://atom.io/packages/rust-lang)
 
 ## Full Changelog
   * [Available Here](CHANGELOG.md)
