@@ -1,6 +1,6 @@
 {
   "name": "rust-lang",
-  "version": "0.7.0",
+  "version": "0.6.0",
   "description": "Rust language support in Atom. Forked from language-rust.",
   "keywords": [
     "rust",

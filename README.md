@@ -1,8 +1,8 @@
 # rust-lang
 Rust language support in Atom. Forked from language-rust.
 
-## New In 0.5.1
-  *  Fixed incorrect tabbing.
+## New In 0.6.0
+  *  Merged quite a few snippets from georich.
 
 ## Full Changelog
   * [Available Here](CHANGELOG.md)
